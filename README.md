@@ -20,7 +20,7 @@ Analise e responda:
 * Quantas colunas existem?
   * R.: 3
 
-  ## Etapa 2 – Total por vendedor
+## Etapa 2 – Total por vendedor
 
 Calcule o total vendido por cada vendedor. Para isso:
 utilize laços aninhados;
